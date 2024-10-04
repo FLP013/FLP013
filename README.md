@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+# Olá, eu sou [Seu Nome]! 👋 Sou desenvolvedor(a) apaixonado(a) por tecnologia e open source. ## 🚀 Projetos em Destaque- [Projeto 1](link-do-projeto) - Descrição do projeto.- [Projeto 2](link-do-projeto) - Descrição do projeto. ## 🌱 Aprendendo atualmente- Linguagem ou tecnologia que você está aprendendo. ## 📫 Como me encontrar- [LinkedIn](link-do-linkedin)- [Twitter](link-do-twitter) ## 😄 Fato curioso sobre mim Um fato divertido ou curioso sobre você.
+ 
 **FLP013/FLP013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
